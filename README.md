@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @GalaKrond-jkr0404
-- 👀 I’m interested in unity, blender, python 
-- 🌱 I’m currently learning unity now...
-- 💞️ I’m sucks..
+Yeah its me Lazist Student :((
+
+Trying to Learn/Make Unity Racing Games
+
+I made Steam AutoTrader - https://youtu.be/CD5xCUxTobI See His tutorial it's Freaking nice 
+
+And I'm still trying to make Drift Games - https://youtu.be/DVHcOS1E5OQ See His tutorial To make a 2D racing Games
+
+I hate Vector2 / Vector3 (Cus I didn't Learned yet in School)
+
+Anyways Thanks for visit My Profile, and Have a nice Day
 
 
 <!---
