@@ -1,6 +1,7 @@
 Yeah its me Lazist Student :((
 
-Trying to Learn/Make Unity Racing Games / Minecraftwith Java-Spigot
+Trying to Learn/Make Unity Racing Games / Minecraft with Java-Spigot
+New Plugin Named Sentry will coming soon :D
 
 I made Steam AutoTrader - https://youtu.be/CD5xCUxTobI See His tutorial it's Freaking nice 
 
@@ -9,6 +10,7 @@ And I'm still trying to make Drift Games - https://youtu.be/DVHcOS1E5OQ See His 
 I hate Vector2 / Vector3 (Cus I didn't Learned yet in School)
 
 Anyways Thanks for visit My Profile, and Have a nice Day
+
 
 
 <!---
