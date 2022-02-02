@@ -1,6 +1,6 @@
 Yeah its me Lazist Student :((
 
-Trying to Learn/Make Unity Racing Games / acmicpc aka baekjoon to C++
+Trying to Learn/Make Unity Racing Games / Boj aka baekjoon to C++ ( PS )
 
 I made Steam AutoTrader - https://youtu.be/CD5xCUxTobI See His tutorial it's Freaking nice 
 
