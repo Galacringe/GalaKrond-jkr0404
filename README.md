@@ -4,7 +4,7 @@ Trying to Learn/Make Unity Racing Games / Boj aka baekjoon to C++ ( PS )
 
 I made Steam AutoTrader - https://youtu.be/CD5xCUxTobI See His tutorial it's Freaking nice 
 
-I hate Vector2 / Vector3 (Cus I didn't Learned yet in School)
+Annnd I opened the blog (Korean) https://devgarlic.tistory.com/
 
 Anyways Thanks for visit My Profile, and Have a nice Day
 
