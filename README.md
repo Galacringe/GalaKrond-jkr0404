@@ -1,10 +1,10 @@
 Yeah its me Lazist Student :((
 
-Trying to Learn/Make Unity Racing Games / Boj aka baekjoon to C++ ( PS )
-
-I made Steam AutoTrader - https://youtu.be/CD5xCUxTobI See His tutorial it's Freaking nice 
-
-Annnd I opened the blog (Korean) https://devgarlic.tistory.com/
+You should do what you should do,
+also I should do what I should d but I dont damn.
+Hot Wheels Collector, Average JDM Fanboy
+C# (Unity) / Java(Minecraft) / Python
+I opened the blog (Korean) https://devgarlic.tistory.com/
 
 Anyways Thanks for visit My Profile, and Have a nice Day
 
