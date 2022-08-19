@@ -1,7 +1,7 @@
 Korean / GMT + 9
 
 You should do what you should do,
-also I should do what I should d but I'm too fucking lazy damn.
+also I should do what I should do but I'm too fucking lazy damn.
 Hot Wheels Collector, Average JDM Fanboy
 C# (Unity) / Java(Minecraft) / Python
 I opened the blog (Korean) https://devgarlic.tistory.com/
