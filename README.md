@@ -1,4 +1,4 @@
-Korean / GMT + 9
+Korean / GMT + 9 / He/Him
 
 You should do what you should do,
 also I should do what I should do but I'm too fucking lazy damn.
