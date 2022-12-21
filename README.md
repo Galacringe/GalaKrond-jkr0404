@@ -5,7 +5,8 @@ Hot Wheels Collector, Average JDM Fanboy
 
 C# (Unity) / Java(Minecraft) / Python / JS
 
-I opened the blog (Korean) https://devgarlic.tistory.com/
+I opened the blog (Korean) https://devgarlic.postype.com/  
+previous blog - ~~https://devgarlic.tistory.com/~~
 
 Anyways Thanks for visit My Profile, and Have a nice Day :D
 
