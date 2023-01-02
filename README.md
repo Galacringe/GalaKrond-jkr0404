@@ -8,7 +8,7 @@ C# (Unity) / Java(Minecraft) / Python / JS
 I opened the blog (Korean) https://devgarlic.postype.com/  
 previous blog - ~~https://devgarlic.tistory.com/~~
 
-Anyways Thanks for visit My Profile, and Have a nice Day :D
+Anyways thanks for visit my profile, and have a nice Day :D
 
 
 
