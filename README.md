@@ -3,7 +3,7 @@ Korean / GMT + 9 / He | Him
 
 Hot Wheels Collector, Average JDM Fanboy
 
-C# (Unity) / Java(Minecraft) / Python / JS
+Currently Learning JS + NodeJS / Java 
 
 I opened the blog (Korean) https://devgarlic.postype.com/  
 previous blog - ~~https://devgarlic.tistory.com/~~
