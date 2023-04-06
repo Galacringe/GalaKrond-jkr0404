@@ -4,7 +4,7 @@ Korean / GMT + 9 / He | Him
 Hot Wheels Collector, Average JDM Fanboy
 
 Currently Learning Dart / JS / etc  
-Current Project : Flutter 3D App / My website (which runs on netlify) / gun plugin
+Current Project : Flutter / gun plugin
 
 I opened the blog (Korean) https://devgarlic.postype.com/  
 previous blog - ~~https://devgarlic.tistory.com/~~
