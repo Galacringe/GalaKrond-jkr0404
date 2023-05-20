@@ -6,7 +6,8 @@ Hot Wheels Collector, Average JDM Fanboy
 Currently Learning Dart / JS / etc  
 Current Project : Flutter / Minecraft Gun Plugin / discord bot(Py?)
 
-I opened the blog (Korean) https://devgarlic.postype.com/  
+My blog (Korean) - https://devgarlic.postype.com/  
+Tech Blog - https://velog.io/@jkr0404
 previous blog - ~~https://devgarlic.tistory.com/~~
 
 Anyways thanks for visit my profile, and have a nice Day :D
