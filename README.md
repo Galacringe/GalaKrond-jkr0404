@@ -4,7 +4,7 @@ Korean / GMT + 9 / He | Him
 Hot Wheels Collector, Average JDM Fanboy
 
 Currently Learning Dart / JS / etc  
-Current Project : Flutter / Minecraft Gun Plugin / discord bot(Py?)
+Current Project : Flutter / Minecraft Gun Plugin / discord bot
 
 My blog (Korean) - https://devgarlic.postype.com/  
 Tech Blog - https://velog.io/@jkr0404  
