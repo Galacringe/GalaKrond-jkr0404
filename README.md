@@ -6,9 +6,9 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-0175c2?style=for-the-badge&logo=flutter&logoColor=fff)
 ![Dart](https://img.shields.io/badge/-Dart-0175c2?style=for-the-badge&logo=dart&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=000)
-![JavaScript](https://img.shields.io/badge/-javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=000)
-Currently Learning Dart / JS / etc  
-Current Project : Flutter / Minecraft Gun Plugin / discord bot
+![JavaScript](https://img.shields.io/badge/-javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=000)  
+
+Current Project : Flutter / Minecraft Gun Plugin / pygame
 
 My blog (Korean) - https://devgarlic.postype.com/  
 Tech Blog - https://velog.io/@jkr0404  
