@@ -4,6 +4,7 @@
 
 ![Currently Learning](https://img.shields.io/badge/-Learning-000000?style=for-the-badge&logo=FutureLearn&logoColor=fff)  
 ![Flutter](https://img.shields.io/badge/-Flutter-0175c2?style=for-the-badge&logo=flutter&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-FFE873?style=for-the-badge&logo=python&logoColor=fff)
 Currently Learning Dart / JS / etc  
 Current Project : Flutter / Minecraft Gun Plugin / discord bot
 
