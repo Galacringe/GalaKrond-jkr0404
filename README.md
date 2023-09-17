@@ -10,9 +10,10 @@
 ![Unity](https://img.shields.io/badge/-unity-000000?style=for-the-badge&logo=unity&logoColor=fff)  
 
 Current Project :    
-EmergenShare - Flutter + Firebase Ambulance Communication App Surpported By YOLO Image Detection    
-Rhythmical - Rhythm Action Game Inspired by JSAB, Crypt of the NecroDancer    
-BlockShot - Customizable Minecraft Spigot Gun plugin    
+
+**EmergenShare - Flutter + Firebase Ambulance Communication App Surpported By YOLO Image Detection**    
+**Rhythmical - Rhythm Action Game Inspired by JSAB, Crypt of the NecroDancer**    
+**BlockShot - Customizable Minecraft Spigot Gun plugin**    
 
 
 My blog (Korean) - https://devgarlic.postype.com/  
