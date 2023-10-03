@@ -16,9 +16,7 @@ Current Project :
 **BlockShot - Customizable Minecraft Spigot Gun plugin**    
 
 
-My blog (Korean) - https://devgarlic.postype.com/  
-Tech Blog - https://velog.io/@jkr0404  
-previous blog - ~~https://devgarlic.tistory.com/~~
+My blog (Korean) - https://velog.io/@jkr0404  
 
 Anyways thanks for visit my profile, and have a nice Day :D
 
