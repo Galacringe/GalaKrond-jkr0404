@@ -12,13 +12,13 @@
 Current Project :    
 
 **EmergenShare - Flutter + Firebase Ambulance Communication App Surpported By YOLO Image Detection**    
-**Rhythmical - Rhythm Action Game Inspired by JSAB, Crypt of the NecroDancer**    
+**Rhythmical - Rhythm Action Game Inspired by JSAB, Crypt of the Necrodancer**    
 **BlockShot - Customizable Minecraft Spigot Gun plugin**    
 
 
 My blog (Korean) - https://velog.io/@jkr0404  
 
-Anyways thanks for visit my profile, and have a nice Day :D
+Anyways thanks for visit my profile, and have a nice day :D
 
 
 
